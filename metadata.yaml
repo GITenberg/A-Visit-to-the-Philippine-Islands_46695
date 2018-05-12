@@ -1,4 +1,8 @@
 _repo: A-Visit-to-the-Philippine-Islands_46695
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46695-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bowring, John
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24984
 description: Part of the American Philosophical Society's H.H. Bartlett Collection
   on the Philippines and the East Indies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46695#A-Visit-to-the-Philippine-Islands
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
